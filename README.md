@@ -68,7 +68,7 @@ Execution time: 0.6166572570800781 seconds
 
 ## Others
 
-The maximum rows of crypto_daily data you can get no more than 1000 due to the limit from our database.  
+The maximum rows of crypto_daily data you can get no more than 1000 due to the limit from our database. (No limit for maximum rows right now)
 
 
 
